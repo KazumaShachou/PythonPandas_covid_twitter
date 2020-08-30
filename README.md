@@ -1,2 +1,2 @@
-# PythonPandas_covid_twitter
- Dados usando pandas sobre opiniões Covid BR
+# Usando PANDAS no Jupyter 
+ Dados de opiniões públicas sobre Covid-19  no twitter BR
